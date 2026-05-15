@@ -1,0 +1,304 @@
+[
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.AdController",
+    "Method": "SsvCallback",
+    "RelativePath": "api/ad/ssv",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RewardType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AdUnitId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CustomData",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "KeyId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TransactionId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Signature",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.AdController",
+    "Method": "GetAdStatus",
+    "RelativePath": "api/ad/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.Auth.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.AuthController",
+    "Method": "SendOtp",
+    "RelativePath": "api/auth/otp/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.Auth.SendOtpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.AuthController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/auth/otp/verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.Auth.VerifyOtpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.AuthController",
+    "Method": "Refresh",
+    "RelativePath": "api/auth/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.Auth.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.DrawController",
+    "Method": "GetDrawResult",
+    "RelativePath": "api/draw/{roundId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roundId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.DrawController",
+    "Method": "GetCurrentRound",
+    "RelativePath": "api/draw/current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.DrawController",
+    "Method": "GetDrawHistory",
+    "RelativePath": "api/draw/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.ReferralController",
+    "Method": "ApplyReferralCode",
+    "RelativePath": "api/referral/apply",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.Referral.ApplyReferralRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.ReferralController",
+    "Method": "GetMyReferrals",
+    "RelativePath": "api/referral/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.TicketController",
+    "Method": "GetMyTicketCount",
+    "RelativePath": "api/tickets/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.TicketController",
+    "Method": "GetMyTickets",
+    "RelativePath": "api/tickets/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.TransparencyController",
+    "Method": "GetDrawSeed",
+    "RelativePath": "api/transparency/draw/{roundId}/seed",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roundId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.TransparencyController",
+    "Method": "GetPrizePool",
+    "RelativePath": "api/transparency/prize-pool",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.UserController",
+    "Method": "RegisterFcmToken",
+    "RelativePath": "api/user/fcm-token",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.User.RegisterFcmTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.UserController",
+    "Method": "UpdateFingerprint",
+    "RelativePath": "api/user/fingerprint",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.User.FingerprintRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.UserController",
+    "Method": "GetProfile",
+    "RelativePath": "api/user/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.WithdrawalController",
+    "Method": "RequestWithdrawal",
+    "RelativePath": "api/withdrawal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AdBallApi.Application.DTOs.Withdrawal.WithdrawalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AdBallApi.Web.Controllers.WithdrawalController",
+    "Method": "GetMyWithdrawals",
+    "RelativePath": "api/withdrawal/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

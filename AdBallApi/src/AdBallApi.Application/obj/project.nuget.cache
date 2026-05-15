@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JtK+Ywlt8Y=",
+  "success": true,
+  "projectFilePath": "D:\\개발소스\\AdBall\\AdBallApi\\src\\AdBallApi.Application\\AdBallApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CHO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

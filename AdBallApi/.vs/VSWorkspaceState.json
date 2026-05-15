@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\AdBallApi.Application",
+    "\\src\\AdBallApi.Domain",
+    "\\src\\AdBallApi.Infrastructure",
+    "\\src\\AdBallApi.Shared",
+    "\\src\\AdBallApi.Web",
+    "\\src\\AdBallApi.Web\\Controllers"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}

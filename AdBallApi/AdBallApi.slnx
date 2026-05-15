@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/AdBallApi.Application/AdBallApi.Application.csproj" />
+  <Project Path="src/AdBallApi.Domain/AdBallApi.Domain.csproj" />
+  <Project Path="src/AdBallApi.Infrastructure/AdBallApi.Infrastructure.csproj" />
+  <Project Path="src/AdBallApi.Shared/AdBallApi.Shared.csproj" />
+  <Project Path="src/AdBallApi.Web/AdBallApi.Web.csproj" />
+  <Project Path="tests/AdBallApi.IntegrationTests/AdBallApi.IntegrationTests.csproj" />
+  <Project Path="tests/AdBallApi.UnitTests/AdBallApi.UnitTests.csproj" />
+</Solution>

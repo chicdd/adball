@@ -1,0 +1,11 @@
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\bin\Debug\net10.0\AdBallApi.Domain.deps.json
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\bin\Debug\net10.0\AdBallApi.Domain.dll
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\bin\Debug\net10.0\AdBallApi.Domain.pdb
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\AdBallApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\AdBallApi.Domain.AssemblyInfoInputs.cache
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\AdBallApi.Domain.AssemblyInfo.cs
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\AdBallApi.Domain.csproj.CoreCompileInputs.cache
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\AdBallApi.Domain.dll
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\refint\AdBallApi.Domain.dll
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\AdBallApi.Domain.pdb
+D:\개발소스\AdBallAPI\src\AdBallApi.Domain\obj\Debug\net10.0\ref\AdBallApi.Domain.dll

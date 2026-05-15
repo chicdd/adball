@@ -1,0 +1,8 @@
+namespace AdBallApi.Application.DTOs.Auth;
+
+public record AuthResponse(
+    string AccessToken,
+    string RefreshToken,
+    DateTime ExpiresAt,
+    bool IsNewUser
+);
