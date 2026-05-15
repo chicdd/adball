@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdBallApi.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f61e0d24001dcd556f5d11689e3cad26f41fc95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce7fda5bacd5826777a6c411ca41b729eed73de")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdBallApi.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdBallApi.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\",
+  "WorkspaceRootPath": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|solutionrelative:src\\adballapi.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|solutionrelative:src\\adballapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|solutionrelative:src\\adballapi.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|solutionrelative:src\\adballapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.infrastructure\\data\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.infrastructure\\data\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|solutionrelative:src\\adballapi.infrastructure\\data\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3AC2A4A-2DE1-B469-89A8-9989AB6B0844}|src\\AdBallApi.Domain\\AdBallApi.Domain.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.domain\\adballapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D3AC2A4A-2DE1-B469-89A8-9989AB6B0844}|src\\AdBallApi.Domain\\AdBallApi.Domain.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.domain\\adballapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D3AC2A4A-2DE1-B469-89A8-9989AB6B0844}|src\\AdBallApi.Domain\\AdBallApi.Domain.csproj|solutionrelative:src\\adballapi.domain\\adballapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.web\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.web\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|solutionrelative:src\\adballapi.web\\controllers\\withdrawalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|solutionrelative:src\\adballapi.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.web\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.web\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF93F2F7-0A23-AC2F-5D19-8484159441CD}|src\\AdBallApi.Web\\AdBallApi.Web.csproj|solutionrelative:src\\adballapi.web\\controllers\\adcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\src\\adballapi.infrastructure\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\src\\adballapi.infrastructure\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD099EE-C9C4-7B65-537C-3806E6D0DC7B}|src\\AdBallApi.Infrastructure\\AdBallApi.Infrastructure.csproj|solutionrelative:src\\adballapi.infrastructure\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0BCCC3-3B81-AA6F-92B7-0219FC475D78}|tests\\AdBallApi.IntegrationTests\\AdBallApi.IntegrationTests.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\tests\\adballapi.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D0BCCC3-3B81-AA6F-92B7-0219FC475D78}|tests\\AdBallApi.IntegrationTests\\AdBallApi.IntegrationTests.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\tests\\adballapi.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D0BCCC3-3B81-AA6F-92B7-0219FC475D78}|tests\\AdBallApi.IntegrationTests\\AdBallApi.IntegrationTests.csproj|solutionrelative:tests\\adballapi.integrationtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBE8AF3-8938-430C-675E-1F6134FB40E7}|tests\\AdBallApi.UnitTests\\AdBallApi.UnitTests.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adballapi\\tests\\adballapi.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EBE8AF3-8938-430C-675E-1F6134FB40E7}|tests\\AdBallApi.UnitTests\\AdBallApi.UnitTests.csproj|d:\\\uAC1C\uBC1C\uC18C\uC2A4\\adball\\adballapi\\tests\\adballapi.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EBE8AF3-8938-430C-675E-1F6134FB40E7}|tests\\AdBallApi.UnitTests\\AdBallApi.UnitTests.csproj|solutionrelative:tests\\adballapi.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 175,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,154 +78,153 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\appsettings.Development.json",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\appsettings.Development.json",
-              "RelativeToolTip": "src\\AdBallApi.Web\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\appsettings.json",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\appsettings.json",
+              "RelativeToolTip": "src\\AdBallApi.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-15T05:22:44.405Z",
+              "WhenOpened": "2026-05-15T06:01:04.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\appsettings.Development.json",
+              "RelativeToolTip": "src\\AdBallApi.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T05:22:44.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Infrastructure\\Services\\AuthService.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Infrastructure\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "src\\AdBallApi.Infrastructure\\Services\\AuthService.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Infrastructure\\Services\\AuthService.cs",
               "RelativeToolTip": "src\\AdBallApi.Infrastructure\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T05:13:52.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdBallApi.Domain",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Domain\\AdBallApi.Domain.csproj",
+              "DocumentIndex": 5,
+              "Title": "AdBallApi.Domain.csproj",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Domain\\AdBallApi.Domain.csproj",
               "RelativeDocumentMoniker": "src\\AdBallApi.Domain\\AdBallApi.Domain.csproj",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Domain\\AdBallApi.Domain.csproj",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Domain\\AdBallApi.Domain.csproj",
               "RelativeToolTip": "src\\AdBallApi.Domain\\AdBallApi.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-15T05:12:47.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WithdrawalController.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
-              "RelativeToolTip": "src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T05:12:24.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T05:12:47.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "src\\AdBallApi.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBAAAAAsAAAAAAAAAA==",
+              "Title": "WithdrawalController.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
+              "RelativeToolTip": "src\\AdBallApi.Web\\Controllers\\WithdrawalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T05:11:21.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T05:12:24.796Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AdController.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AdController.cs",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Controllers\\AdController.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AdController.cs",
-              "RelativeToolTip": "src\\AdBallApi.Web\\Controllers\\AdController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\AdBallApi.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T05:11:06.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T05:11:21.894Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TicketRepository.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
-              "RelativeToolTip": "src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "AdController.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AdController.cs",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Controllers\\AdController.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Controllers\\AdController.cs",
+              "RelativeToolTip": "src\\AdBallApi.Web\\Controllers\\AdController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:20:47.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MySqlConnectionFactory.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
-              "RelativeToolTip": "src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:19:57.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Program.cs",
-              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Program.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\src\\AdBallApi.Web\\Program.cs",
-              "RelativeToolTip": "src\\AdBallApi.Web\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:17:57.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T05:11:06.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
-              "RelativeToolTip": "tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "src\\AdBallApi.Infrastructure\\Repositories\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:06:24.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T03:20:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySqlConnectionFactory.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
+              "RelativeToolTip": "src\\AdBallApi.Infrastructure\\Data\\MySqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:19:57.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AdBallApi.Web\\Program.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\src\\AdBallApi.Web\\Program.cs",
+              "RelativeToolTip": "src\\AdBallApi.Web\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:17:57.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\tests\\AdBallApi.UnitTests\\UnitTest1.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
+              "RelativeToolTip": "tests\\AdBallApi.IntegrationTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:06:24.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\tests\\AdBallApi.UnitTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "tests\\AdBallApi.UnitTests\\UnitTest1.cs",
-              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBallApi\\tests\\AdBallApi.UnitTests\\UnitTest1.cs",
+              "ToolTip": "D:\\\uAC1C\uBC1C\uC18C\uC2A4\\AdBall\\AdBallApi\\tests\\AdBallApi.UnitTests\\UnitTest1.cs",
               "RelativeToolTip": "tests\\AdBallApi.UnitTests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T03:06:02.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T03:06:02.805Z"
             }
           ]
         },
